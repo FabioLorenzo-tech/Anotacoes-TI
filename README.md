@@ -2,7 +2,7 @@
 
 Repositório com anotações organizadas sobre conteúdos teóricos estudados na área de **Tecnologia da Informação**.
 
-> 💡 Ideal para revisão de provas, reforço de estudo ou compartilhamento com colegas de curso.
+> 💡 Ideal para revisão de provas, reforço de estudo.
 
 ---
 
@@ -18,7 +18,6 @@ Repositório com anotações organizadas sobre conteúdos teóricos estudados na
 
 - Redes de computadores
 - Sistemas operacionais (Linux e Windows)
-- Segurança da Informação
 - LGPD
 - Fundamentos de TI
 
