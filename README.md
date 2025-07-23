@@ -27,8 +27,7 @@ Repositório com anotações organizadas sobre conteúdos teóricos estudados na
 ## 🎯 Objetivo
 
 - Organizar o aprendizado de forma acessível e reaproveitável
-- Criar uma base de estudo contínuo para certificações ou entrevistas
-- Compartilhar conhecimento de forma aberta e gratuita
+- Criar uma base de estudo contínuo para certificações
 
 ---
 
